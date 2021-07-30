@@ -5,6 +5,8 @@ public class Class2 {
         String str=" What is SDLC?";
         if (str.contains("SDLC")){
             System.out.println("Software Development Life Cycle");
+        }else{
+            System.out.println("Can you focus?");
         }
 
 
